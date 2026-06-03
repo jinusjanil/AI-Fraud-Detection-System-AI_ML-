@@ -1,6 +1,8 @@
 AI Fraud Detection System
 Project Overview
 
+Dataset Download :- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?utm_source=chatgpt.com
+
 This project uses Machine Learning to detect fraudulent credit card transactions.
 
 The dataset is highly imbalanced, with fraudulent transactions representing only a small fraction of total transactions.
